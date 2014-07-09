@@ -7,7 +7,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 # install java
 RUN apt-get update && \
-    apt-get install -y openjdk-7-jre-headless && \
+    apt-get install -y openjdk-6-jre-headless && \
     apt-get clean
 
 CMD ["java", "-version"]
