@@ -25,13 +25,3 @@ The image is tagged with OpenJDK's major versions:
     OpenJDK 64-Bit Server VM (build 24.51-b03, mixed mode)
 
 As of now, only OpenJDK versions 6 and 7 are available. OpenJDK 8 has not been packaged and made available in debian/ubuntu.
-
-### Tags
-
-    latest  7f809bdf180d
-
-    7       7f809bdf180d
-    7u55    7f809bdf180d
-
-    6       db293a3fa253
-    6u31    db293a3fa253
